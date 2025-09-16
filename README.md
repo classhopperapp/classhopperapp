@@ -1,6 +1,6 @@
 # Classhopper: Geleceğin Liderleri İçin Kişiselleştirilmiş Yapay Zekâ Destekli Mentorluk ve Küresel İş Birlikleri Platformu 🚀
 
-Merhaba! Ben [Adınız], **Classhopper** projesinin [rolünüz, örn: Geliştiricisiyim / CTO'suyum]. Üniversite öğrencilerini **akademik ve sosyal yolculukları boyunca destekleyen dinamik bir platform** inşa ediyoruz. Misyonumuz, öğrencileri **topluluk, kampüs ve kariyer fırsatları** aracılığıyla bir araya getirerek, küresel başarı için nihai yoldaşları olmaktır [1, 2].
+M Üniversite öğrencilerini **akademik ve sosyal yolculukları boyunca destekleyen dinamik bir platform** inşa ediyoruz. Misyonumuz, öğrencileri **topluluk, kampüs ve kariyer fırsatları** aracılığıyla bir araya getirerek, küresel başarı için nihai yoldaşları olmaktır [1, 2].
 
 ## ✨ Vizyonumuz
 
