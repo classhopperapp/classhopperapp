@@ -1,6 +1,6 @@
 # Üniversite Hayatında Sınıf Atla!
 
-Klanlara katıl, gerçek projelerde yerini al, networkünü genişlet ve şirketleri cezbet.
+Klanlara katıl, gerçek projelerde yerini al, networkünü genişlet ve şirketleri cezbet. Erken erişim için bekleme listesine katıl.
 
 ## Merhaba Çekirge!
 
